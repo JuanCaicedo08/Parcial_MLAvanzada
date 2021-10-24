@@ -1,8 +1,9 @@
-# Autor:        Juan Pablo Caicedo
-# Profesor:     John Corredor
-# Materia:      Machine Learning Computacion Avanzada
-# Semestre:     2021-2
-# Universidad:  
+<img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png" align="center"><br><br><FONT FACE="times new roman" SIZE=5>
+# Presentacion
+- Autor:        Juan Pablo Caicedo\n
+- Profesor:     John Corredor
+- Materia:      Machine Learning Computacion Avanzada
+- Semestre:     2021-2
 
 # Parcial_MLAvanzada
 Este es un proyecto para el examen parcial de 2do corte de Machine Learning Computacion Avanzada
@@ -14,22 +15,3 @@ Este es un proyecto para el examen parcial de 2do corte de Machine Learning Comp
 # Sistema Operativo
 El sistema Operativo en el que se desarrollo este proyecto es el base Linux/Ubuntu
 
-# Descripcion del Contenido
-En este repositorio de desarrollará mas de 30 codigos en lenguaje C, que nos sirven para practicar y desarrollar nuevas habilidades en programación, algunos de los temas que se van a tratar son:
-* Simple C 
-* If/Else Statement
-* Loops
-* Switch Case
-* Array 
-* Matrix 
-* String 
-* Function 
-* Pointer 
-* File Handling
-* Sorting
-* Searching
-
-# Autores
-Estudiantes de Ciencias de la Computación e Inteligencia Artificial de la Universidad Sergio Arboleda de Bogotá Colombia
-- Juan Pablo Caicedo
-- David Zarate
